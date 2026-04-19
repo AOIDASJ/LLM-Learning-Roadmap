@@ -10,6 +10,11 @@
 大模型知识学习/
 ├── README.md                          # 总览与路线图（本文件）
 ├── progress.md                        # 学习进度追踪
+├── resources.md                       # 优质开源资源汇总
+│
+├── daily-digest/                      # 📰 每日知识推送（自动采集）
+│   ├── README.md                          # 推送索引
+│   └── YYYY-MM-DD.md                      # 按日期归档的推送
 │
 ├── 01- foundations/                    # 第一阶段：基础理论
 │   ├── 01-transformer-architecture.md     # Transformer 架构精讲
