@@ -12,7 +12,11 @@
 ├── progress.md                        # 学习进度追踪
 ├── resources.md                       # 优质开源资源汇总
 │
-├── daily-digest/                      # 📰 每日知识推送（自动采集）
+├── daily-log/                        # 📝 每日学习日志（自动记录）
+│   ├── README.md                          # 日志索引
+│   └── YYYY-MM-DD.md                      # 按日期归档的日志
+│
+├── daily-digest/                      # 📰 网络知识推送（仅按需/学完后触发）
 │   ├── README.md                          # 推送索引
 │   └── YYYY-MM-DD.md                      # 按日期归档的推送
 │
